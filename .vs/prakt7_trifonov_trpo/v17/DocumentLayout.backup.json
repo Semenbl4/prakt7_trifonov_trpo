@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3567CAD0-3EE2-47FC-9939-A6F535D01A6C}|prakt7_trifonov_trpo.csproj|c:\\users\\msi\\downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{3567CAD0-3EE2-47FC-9939-A6F535D01A6C}|prakt7_trifonov_trpo.csproj|solutionrelative:mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3567CAD0-3EE2-47FC-9939-A6F535D01A6C}|prakt7_trifonov_trpo.csproj|c:\\users\\msi\\downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\converters\\lowstockconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3567CAD0-3EE2-47FC-9939-A6F535D01A6C}|prakt7_trifonov_trpo.csproj|solutionrelative:converters\\lowstockconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3567CAD0-3EE2-47FC-9939-A6F535D01A6C}|prakt7_trifonov_trpo.csproj|c:\\users\\msi\\downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\models\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3567CAD0-3EE2-47FC-9939-A6F535D01A6C}|prakt7_trifonov_trpo.csproj|solutionrelative:models\\warehouseitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3567CAD0-3EE2-47FC-9939-A6F535D01A6C}|prakt7_trifonov_trpo.csproj|c:\\users\\msi\\downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\converters\\rubletokopeyki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3567CAD0-3EE2-47FC-9939-A6F535D01A6C}|prakt7_trifonov_trpo.csproj|solutionrelative:converters\\rubletokopeyki.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3567CAD0-3EE2-47FC-9939-A6F535D01A6C}|prakt7_trifonov_trpo.csproj|c:\\users\\msi\\downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3567CAD0-3EE2-47FC-9939-A6F535D01A6C}|prakt7_trifonov_trpo.csproj|solutionrelative:mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LowStockConverter.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\Converters\\LowStockConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\LowStockConverter.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\Converters\\LowStockConverter.cs*",
+              "RelativeToolTip": "Converters\\LowStockConverter.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:15:50.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rubletokopeyki.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\Converters\\Rubletokopeyki.cs",
+              "RelativeDocumentMoniker": "Converters\\Rubletokopeyki.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\Converters\\Rubletokopeyki.cs",
+              "RelativeToolTip": "Converters\\Rubletokopeyki.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:05:21.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WarehouseItem.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\Models\\WarehouseItem.cs",
+              "RelativeDocumentMoniker": "Models\\WarehouseItem.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\Models\\WarehouseItem.cs*",
+              "RelativeToolTip": "Models\\WarehouseItem.cs*",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDcAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:05:22.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\MainWindow.xaml*",
+              "RelativeToolTip": "MainWindow.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-11-19T19:05:22.246Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Downloads\\prakt7_trifonov_trpo\\prakt7_trifonov_trpo\\MainWindow.xaml.cs",
+              "RelativeToolTip": "MainWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-19T19:05:22.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
